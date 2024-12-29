@@ -1,0 +1,9 @@
+# Unity build artifacts
+/Library/
+/Temp/
+/obj/
+/asmdef/.NETStandard.Library.xml
+/Assets/*.csproj
+/Assets/*.sln
+/Assets/Library/
+/Assets/Temp/
